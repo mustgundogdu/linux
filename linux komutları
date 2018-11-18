@@ -1,0 +1,18 @@
+#uname 
+sistemimizin kullandığı kernel versiyonunu öğrenmek için uname -a komutunu kullanabiliriz.
+#cal
+bulunduğumuz ayı sistemin bir aylık takvim olarak konsoldan göstermesi için kullanılır.
+cal ay yıl = komutuyla istediğimiz yılın istediğimiz ayını görebiliriz.
+#date
+sistemin o anki saat ve tarih bilgisini öğrenmek için kullanılır.
+#hostname 
+kullandığımız sistemde bilgisayara verdiğimiz adı görmek için kullanılır.
+#who-whoami
+sistemde kim aktif kim login olmuş o an hangi kimlikle çalışıyoruz gibi bilgileri öğrenmek için w,who,whoami,who am i,
+komutları kullanılır.
+w=hangi kullanıcının o anda hangi uygulamayı veya komutu çalıştırdığı bilgisi.
+who=sistemde hangi kimlikle çalışıldığı.
+whoami=kullanıcının hangi kimlikle çalıştığını gösterir.
+
+who komutunu -b ile kullandığımızda en son ne zaman açıldığı bilgisini ,-r ile kullandığımızda açılış seviyesini (runlevel)
+bize gösterir.
