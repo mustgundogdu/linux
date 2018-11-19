@@ -1,0 +1,29 @@
+#uptime 
+sistemimizin ne kadar zamandır açık olduğunu görmek için uptime komutunu kullanabilirsiniz.
+#whereis
+bir dosyayla ilgili kaynak ve yardım dosyalarının konumunu öğrenmek için whereis komutu kullanılır.
+whereis -b parametresiyle komut verirsek sadece çalıştırılabilir dosyanın yerini ,whereis -m ile sadece man sayfasının yerini
+whereis -s ile de varsa kaynak kodunun konum bilgisini verir.
+#locate 
+bu komutla aradığımız bir dosyanın nerede olduğunu yani hangi dizin/dizinler altında olduğunu öğrenebiliriz.
+#dmidecode
+sistemin donanım bileşenlerini ve BIOS ile ilgili bilgiyi görmek için dmidecode komutunu kullanabiliriz.
+komutun kalıbı şu şekildedir:
+dmidecode -t (donanım)
+donanım ile ilgili bilgiler öğrenilebilir.
+#proc
+cpu ve ram hakkında bilgi edinmek için sanal dosya sistemi olan proc kullanılabilir.
+cat/proc/cpuinfo ve cat/proc/meminfo
+#fdisk
+aslında diskleri bölümlemek için kullanılan fdisk komutunu -l parametresiyle 
+kullanırsanız sisteminizdeki disk bölümlerini görebilirsiniz.
+#df
+disk kullanımı ile ilgili ayrıntılı bilgiyi df komutu yardımıyla öğrenebiliriz.
+df -h (mb gb bazında)
+df -T dosya sistemi bilgisiyle birlikte liste almak için.
+#du 
+bir dizinin altında bulunan alt dizin dosya yada klasörlerin diskte kapladıkları alanın boyutunu öğrenmek için
+du komutundan faydlanılır.
+#free
+bu komutla kullanılan bellek miktarı görülebilir.
+free -m (mb)
