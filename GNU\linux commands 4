@@ -1,0 +1,34 @@
+#halt
+bilgisayarı kapatır.
+#id
+kullanıcının kimlik ve grup numaralarını görüntüler.
+#last
+sisteme giriş çıkış zamanlarını gösterir.
+#logname
+kullnıcının kayıtlı adını görüntüler.
+#passwd
+kullanıcı şifresini değiştirmek için kullanılır.
+#su
+kullanıcı değiştirme
+#sudo
+başka bir kullanıcı olarak komut çalıştır.
+#uname
+sistem bilgisini gösterir.
+#users
+giriş yapan kullanıcıları gösterir.
+#vdir
+dizin içeriğini listeler.
+#Vim
+programcılar için text editörüdür.
+#vmstat
+sanal bellek istatisliklerini görüntüler.
+#wc
+herbir dosya için satır kelime ve bayt sayılarını verir.
+#Which 
+ bir komutun çalıştğı yeri gösterir.
+#Who -a
+bağlı kullanıcıları ve biten ,başlayan süreçleri görüntüler.
+#Write
+başka bir kullanıcıya mesaş göndermede kullanılır.
+#locate
+bir dosya arama aracıdır.
