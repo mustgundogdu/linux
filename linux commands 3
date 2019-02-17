@@ -1,0 +1,40 @@
+#allias
+Bir komutu farklı bir isimle çalıştırmaya yarar.
+#apt-cache
+Apt önbelleğine sorgu gönderir.
+#bash
+GNU Bourne-Again Shell.kabuk uyumlu kabuk dilidir.
+#chattr
+linux dosya sisteminde dosya niteliklerini değiştirir.
+#chgrp
+dosyanın grubunu değiştirir.
+#chown
+dosyanın sahibini ve grubunu değiştirmeye yarar.
+#chroot
+verilen dizini yeni root program çalıştırma dizini olarak ayarlar.
+#cut
+dosyaların satırlarından belirtilen kısımları çıktıya gönderiri.
+#dd
+birdosyayı kopyalar ve dönüştürür.
+#dig
+DNS bilgi programı.
+#Dnsdomainname
+sistemin dns alan adını gösterir.
+#dpkg
+debian için paket yöneticisi.
+#dpkg-deb
+debian paket arşivi.
+#exit
+konsoldan çıkış yapar(root isek diğer kullanıcıya geçiş yapar.)
+#groupadd
+yeni bir grup ekler.
+#groupdel
+bir grubu siler.
+#gunzip
+dosyaları sıkıştırır ve genişletir.
+#gzip
+dosyaları sıkıştırır.
+#host
+DNS araştırma programıdır.
+#hostid
+geçerli sunucunun id sini görüntüler.
