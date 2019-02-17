@@ -1,4 +1,4 @@
-#uname 
+ #uname 
 sistemimizin kullandığı kernel versiyonunu öğrenmek için uname -a komutunu kullanabiliriz.
 #cal
 bulunduğumuz ayı sistemin bir aylık takvim olarak konsoldan göstermesi için kullanılır.
