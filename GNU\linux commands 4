@@ -26,8 +26,6 @@ sanal bellek istatisliklerini görüntüler.
 herbir dosya için satır kelime ve bayt sayılarını verir.
 #Which 
  bir komutun çalıştğı yeri gösterir.
-#Who -a
-bağlı kullanıcıları ve biten ,başlayan süreçleri görüntüler.
 #Write
 başka bir kullanıcıya mesaş göndermede kullanılır.
 #locate
