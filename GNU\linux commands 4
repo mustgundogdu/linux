@@ -7,7 +7,7 @@ sisteme giriş çıkış zamanlarını gösterir.
 #logname
 kullnıcının kayıtlı adını görüntüler.
 #passwd
-kullanıcı şifresini değiştirmek için kullanılır.
+kullanıcı şifresini değiştirmek için kullanılır.(Ayrıca /etc/passwd dosyasında kullanıcılar ile ilgili bilgiler tutulur.)
 #su
 kullanıcı değiştirme
 #sudo
